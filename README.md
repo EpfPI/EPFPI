@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="BannerEPF.png" alt="Banner na Escola Profossional do Fundão">
 
-<!--
-**EPFPI/EPFPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h1>Os Meus Módulos Acadêmicos </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> Ao longo do meu percurso acadêmico na Escola Profissional do Fundão, apresento de forma organizada todos os trabalhos acadêmicos que desenvolvi, divididos em módulos que abrangem uma ampla gama de disciplinas. Cada módulo representou uma oportunidade única para aprofundar meus conhecimentos e habilidades. </p>
+
+<p> Ao longo desses módulos, não limitei meu aprendizado apenas ao aspecto técnico, mas busquei ativamente oportunidades para aprimorar minhas habilidades interpessoais. Envolvendo-me em projetos em grupo, apresentações e atividades extracurriculares, desenvolvi uma capacidade robusta de colaboração e comunicação eficaz. </p>
+
+<p> Em resumo, os módulos realizados na Escola Profissional do Fundão representam não apenas uma jornada acadêmica, mas uma experiência abrangente na qual adquiri conhecimentos sólidos, habilidades práticas e uma mentalidade proativa, preparando-me para os desafios futuros em minha trajetória acadêmica e profissional. </p>
+
+<br>
+
+# Redes Sócias na Escola Profissional do Fundão
+ 
+<div align="center">
+  <a href="https://www.epfundao.edu.pt/" target="_blank">
+  <img src="https://img.shields.io/badge/website-69BF6D?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/school/escola-profissional-do-fund%C3%A3o/mycompany/" target="_blank">
+  <a href="https://github.com/EpfPI" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-69BF6D?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <img src="https://img.shields.io/badge/LinkedIn-69BF6D?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/EscolaProfissionalFundao" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-69BF6D?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/escolaprofissionalfundao/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-69BF6D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/EPFundao" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-69BF6D?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:epfundao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-69BF6D?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br>
